@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>已赞</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="已赞" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7,2.75384615 L7.65224626,2.10769231 C9.09650582,0.630769231 11.4725458,0.630769231 12.9168053,2.10769231 C14.3610649,3.58461538 14.3610649,5.93846154 12.9168053,7.41538462 L7.65224626,12.7230769 C7.46589018,12.9076923 7.23294509,13 7,13 C6.76705491,13 6.53410982,12.9076923 6.34775374,12.7230769 L1.08319468,7.41538462 C-0.361064892,5.93846154 -0.361064892,3.58461538 1.08319468,2.10769231 C2.52745424,0.630769231 4.90349418,0.630769231 6.34775374,2.10769231 L7,2.75384615 Z" id="Shape" fill="#FF5A5F" fill-rule="nonzero"></path>
+    </g>
+</svg>

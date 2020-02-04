@@ -1,6 +1,9 @@
 # 项目说明
 仿微信小程序小打卡的web端管理系统，半成品，不打算继续维护了，用vue-cli3重新写了，我重学Vue去了。。。
 [项目预览地址](https://armin-xu.cn/web/#/login)
+
+[![Run on Repl.it](https://repl.it/badge/github/MYxu/SmallPunch_FrontEnd)](https://repl.it/github/MYxu/SmallPunch_FrontEnd)
+
 # demo
 
 > A Vue.js project
